@@ -1,1 +1,2 @@
 saya sedang belajar git
+in i adalah penambahan baris baru pada latihan git1
